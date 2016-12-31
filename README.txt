@@ -1,0 +1,1 @@
+This is a solver for a very specific kind of CAPTCHAs like those in the test images.
